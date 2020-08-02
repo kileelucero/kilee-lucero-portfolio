@@ -1,0 +1,44 @@
+.jumbotron {
+    color: teal;
+}
+
+body {
+    background-image: url("backGroundTest.JPG");
+  }
+
+  h5 {
+    word-wrap:break-word;
+  }
+
+  /* @media (min-width: 400px) {
+    .jumbotron {
+        font-size: 4em;
+    }
+} */
+
+.jumbotron {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+ }
+
+ /* @include media-breakpoint-up(sm) {
+    .jumbotron {
+     font-size: 1.2rem;
+    }
+  } */
+
+  /* .row-sm-6 {
+      float: left;
+      padding: none;
+      margin: none;
+  } */
+
+/* .col-sm {
+    display: inline;
+} */
+
+footer {
+    color: white;
+}
