@@ -39,6 +39,15 @@ body {
     display: inline;
 } */
 
-footer {
-    color: white;
+#footer {
+    color: teal;
+    padding: 20px 0px;
+}
+
+.fixed-top {
+    color: teal;
+}
+
+.fab {
+    cursor: pointer;
 }
